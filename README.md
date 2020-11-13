@@ -32,7 +32,6 @@
 * [木の直径](https://github.com/kojima0615/Algorithm_library/blob/main/code/TreeDiameter.cpp)
 * [クラスカル法(最小全域木)](https://github.com/kojima0615/Algorithm_library/blob/main/code/kruskal.cpp)
 * [Low Link](https://github.com/kojima0615/Algorithm_library/blob/main/code/lowlink.cpp)
-* [ワーシャルフロイド法(最短経路)](https://github.com/kojima0615/Algorithm_library/blob/main/code/warshall_floyd.cpp)
 
 ### データ構造
 * [Union Find Tree](https://github.com/kojima0615/Algorithm_library/blob/main/code/UnionFind.cpp)
